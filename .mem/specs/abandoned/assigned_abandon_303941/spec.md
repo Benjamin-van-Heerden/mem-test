@@ -1,13 +1,13 @@
 ---
 title: Assigned Abandon 303941
-status: todo
+status: abandoned
 assigned_to: Benjamin-van-Heerden
 issue_id: 83
 issue_url: https://github.com/Benjamin-van-Heerden/mem-test/issues/83
 branch: dev-benjamin_van_heerden-assigned_abandon_303941
 pr_url: null
 created_at: '2026-01-12T14:58:34.184010'
-updated_at: '2026-01-12T14:59:48.764419'
+updated_at: '2026-01-12T15:00:00.731164'
 completed_at: null
 last_synced_at: '2026-01-12T14:59:47.621519'
 local_content_hash: fd7805e0f3283c6b7603dbaa1ce145252b1ef8608764ed7e446811545273bf91
