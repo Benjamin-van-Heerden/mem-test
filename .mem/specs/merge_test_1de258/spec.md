@@ -1,13 +1,13 @@
 ---
 title: Merge Test 1De258
-status: todo
+status: merge_ready
 assigned_to: Benjamin-van-Heerden
 issue_id: 12
 issue_url: https://github.com/Benjamin-van-Heerden/mem-test/issues/12
 branch: dev-benjamin_van_heerden-merge_test_1de258
-pr_url: null
+pr_url: https://github.com/Benjamin-van-Heerden/mem-test/pull/13
 created_at: '2026-01-12T13:50:12.699791'
-updated_at: '2026-01-12T13:50:27.669996'
+updated_at: '2026-01-12T13:50:42.560724'
 completed_at: null
 last_synced_at: '2026-01-12T13:50:24.216053'
 local_content_hash: fd7805e0f3283c6b7603dbaa1ce145252b1ef8608764ed7e446811545273bf91
