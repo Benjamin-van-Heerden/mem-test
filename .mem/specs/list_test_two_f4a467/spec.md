@@ -1,13 +1,13 @@
 ---
 title: List Test Two F4A467
 status: todo
-assigned_to: null
+assigned_to: Benjamin-van-Heerden
 issue_id: 44
 issue_url: https://github.com/Benjamin-van-Heerden/mem-test/issues/44
-branch: null
+branch: dev-benjamin_van_heerden-list_test_two_f4a467
 pr_url: null
 created_at: '2026-01-12T14:10:20.413718'
-updated_at: '2026-01-12T14:10:58.601025'
+updated_at: '2026-01-12T14:11:17.426163'
 completed_at: null
 last_synced_at: '2026-01-12T14:10:58.600518'
 local_content_hash: fd7805e0f3283c6b7603dbaa1ce145252b1ef8608764ed7e446811545273bf91
