@@ -1,0 +1,5 @@
+.agent_core/tmp/
+
+# Agent Core worktree symlinks
+.claude
+.claude/

@@ -1,0 +1,27 @@
+[project]
+name = "project"
+description = """
+Add your project description here.
+"""
+
+# Files to include in onboard output
+# [[files]]
+# path = "README.md"
+# description = "Project overview and setup instructions"
+
+[worktree]
+# Project-root relative paths to symlink from the main checkout into spec worktrees.
+# Every listed path is automatically added to .gitignore and must be safe to keep untracked.
+# Typical examples are .env, .claude, .venv, node_modules, or deps. Use care with manifests and lock files such as pyproject.toml, package.json, or bun.lock; list them only when the project deliberately treats them as local-only.
+symlink_paths = [".claude"]
+
+[harness]
+update_interval_days = 3
+
+last_updated_at = "2026-05-21T12:14:53Z"
+[branches]
+dev = "dev"
+main = "main"
+test = "test"
+# [branches.noswitch_branches]
+# company_xyz = "main"
